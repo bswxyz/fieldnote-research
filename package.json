@@ -2,7 +2,7 @@
   "name": "fieldnote-research",
   "version": "1.0.0",
   "private": true,
-  "description": "Fieldnote — research notes with citations as first-class objects. Fable design showcase.",
+  "description": "Fieldnote — research notes with citations as first-class objects. Parable design showcase.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

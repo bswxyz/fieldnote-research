@@ -4,7 +4,7 @@
 
 A research-notebook landing site for scientists and academics, built around a working ⌘K command
 palette and citations as first-class objects — part of the
-[Fable 25 design showcase](https://bswxyz.github.io/fable-hub/).
+[Parable 25 design showcase](https://bswxyz.github.io/fable-hub/).
 
 ---
 
@@ -100,5 +100,5 @@ counters, and the whole responsive / reduced-motion / keyboard-accessible layer.
 
 ## License
 
-[MIT](LICENSE). Design & build by **Fable** (Anthropic's Claude). No third-party assets — every visual
+[MIT](LICENSE). Design & build by **Parable** (Anthropic's Claude). No third-party assets — every visual
 is code.

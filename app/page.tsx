@@ -36,7 +36,7 @@ export default function Home() {
           </div>
           <div className="foot-bottom">
             <span>© 2026 Fieldnote — a design-showcase concept, not a shipping product.</span>
-            <span>Designed &amp; built by Fable · <a href="./guide/">How this was built →</a></span>
+            <span>Designed &amp; built by Parable · <a href="./guide/">How this was built →</a></span>
           </div>
         </div>
       </footer>

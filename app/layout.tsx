@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     'Fieldnote is a research notebook where citations are first-class objects: every claim links to a real, deduplicated DOI, protocols version like code, and your lab’s knowledge graph is one keystroke away. Try the working ⌘K palette.',
   applicationName: 'Fieldnote',
-  authors: [{ name: 'Fable' }],
+  authors: [{ name: 'Parable' }],
   keywords: ['research notes', 'citations', 'DOI', 'knowledge graph', 'protocols', 'command palette', 'science', 'academia'],
   openGraph: {
     title: 'Fieldnote — every claim has a receipt',
