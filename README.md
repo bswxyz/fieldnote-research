@@ -1,10 +1,42 @@
-# Fieldnote
+<!-- parable:beautified -->
+<div align="center">
 
-**Live:** https://bswxyz.github.io/fieldnote-research/ · **Build notes:** https://bswxyz.github.io/fieldnote-research/guide/
+<h1>Fieldnote</h1>
+
+<p><strong>Research notes with citations — a working ⌘K palette + hover-cards.</strong></p>
+
+<p>
+  <a href="https://bswxyz.github.io/fieldnote-research/"><img alt="Live demo" src="https://img.shields.io/badge/demo-live-8b5cf6?style=flat-square&labelColor=1a1a1a"></a>
+  <img alt="Family" src="https://img.shields.io/badge/family-Parable-ec4899?style=flat-square&labelColor=1a1a1a">
+  <img alt="Stack" src="https://img.shields.io/badge/stack-Next.js-f5a623?style=flat-square&labelColor=1a1a1a">
+  <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square&labelColor=1a1a1a"></a>
+</p>
+
+<p>
+  <a href="https://bswxyz.github.io/fieldnote-research/"><b>Live demo</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://bswxyz.github.io/fieldnote-research/guide/">Build notes</a>
+  &nbsp;·&nbsp;
+  <a href="https://parable-three.vercel.app/templates">More templates</a>
+</p>
+
+<a href="https://bswxyz.github.io/fieldnote-research/">
+  <img src=".github/preview.jpg" alt="Fieldnote — live preview" width="100%">
+</a>
+
+</div>
+
+**Use this template** — copy the source into a new project:
+
+```bash
+npx degit bswxyz/fieldnote-research my-app
+```
+
+
 
 A research-notebook landing site for scientists and academics, built around a working ⌘K command
 palette and citations as first-class objects — part of the
-[Parable 25 design showcase](https://bswxyz.github.io/fable-hub/).
+[Parable 25 design showcase](https://parable-three.vercel.app).
 
 ---
 
@@ -100,5 +132,5 @@ counters, and the whole responsive / reduced-motion / keyboard-accessible layer.
 
 ## License
 
-[MIT](LICENSE). Design & build by **Parable** (Anthropic's Claude). No third-party assets — every visual
+[MIT](LICENSE). Design & build by **Parable**. No third-party assets — every visual
 is code.
